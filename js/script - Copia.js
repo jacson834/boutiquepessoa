@@ -9,8 +9,29 @@ document.addEventListener('DOMContentLoaded', () => {
         { id: 6, title: "Brinco infantil", price: 29.90, oldPrice: 39.90, image: "assets/joias/Brinco infantil R$ 29,90 Cada 3.jpeg", badge: "Verão" },
         { id: 7, title: "Brinco infantil", price: 29.90, oldPrice: 59.90, image: "assets/joias/Brinco infantil R$ 29,90 cada 4.jpeg", badge: "Novidade" },
         { id: 8, title: "Brinco infantil", price: 29.90, oldPrice: 49.90, image: "assets/joias/Brinco infantil R$ 29,90 cada 5.jpeg", badge: "" },
+
+        //
         { id: 9, title: "Brinco Argola de Gota", price: 109.90, oldPrice: 159.90, image: "assets/joias/Brinco Argola de Gota-R$ 109,90.jpeg", badge: "Tendência" },
         { id: 10, title: "Brinco Argola Luxo", price: 98.90, oldPrice: 119.90, image: "assets/joias/Brinco Argola luxo-R$ 98,90.jpeg", badge: "Novidade" },
+        { id: 11, title: "Anel Aparador", price: 99.90, oldPrice: 129.90, image: "assets/joias/Anel Aparador.jpeg", badge: "Promoção" },
+        { id: 12, title: "Pulseira Riviera", price: 189.90, oldPrice: 249.90, image: "assets/joias/Pulseira Riviera.jpeg", badge: "Luxo" },
+        { id: 13, title: "Choker Ponto de Luz", price: 89.90, oldPrice: 119.90, image: "assets/joias/Choker Ponto de Luz.jpeg", badge: "" },
+        { id: 14, title: "Brinco Ear Cuff", price: 109.90, oldPrice: 149.90, image: "assets/joias/Brinco Ear Cuff.jpeg", badge: "Novidade" },
+        { id: 15, title: "Anel Falange", price: 69.90, oldPrice: 89.90, image: "assets/joias/Anel Falange.jpeg", badge: "" },
+        { id: 16, title: "Colar Letra Inicial", price: 119.90, oldPrice: 159.90, image: "assets/joias/Colar Letra Inicial.jpeg", badge: "Personalizado" },
+        { id: 17, title: "Pulseira Olho Grego", price: 99.90, oldPrice: 129.90, image: "assets/joias/Pulseira Olho Grego.jpeg", badge: "Proteção" },
+        { id: 18, title: "Brinco Pérola", price: 79.90, oldPrice: 109.90, image: "assets/joias/Brinco Perola.jpeg", badge: "Clássico" },
+        { id: 19, title: "Anel Coração Vazado", price: 109.90, oldPrice: 139.90, image: "assets/joias/Anel Coracao Vazado.jpeg", badge: "" },
+        { id: 20, title: "Colar Gravatinha", price: 129.90, oldPrice: 169.90, image: "assets/joias/Colar Gravatinha.jpeg", badge: "Elegante" },
+        { id: 21, title: "Brinco Argola Pequena", price: 69.90, oldPrice: 99.90, image: "assets/joias/Brinco Argola Pequena.jpeg", badge: "" },
+        { id: 22, title: "Pulseira Infantil", price: 79.90, oldPrice: 99.90, image: "assets/joias/Pulseira Infantil.jpeg", badge: "Infantil" },
+        { id: 23, title: "Anel de Dedinho", price: 89.90, oldPrice: 119.90, image: "assets/joias/Anel de Dedinho.jpeg", badge: "Estilo" },
+        { id: 24, title: "Colar Longo", price: 149.90, oldPrice: 199.90, image: "assets/joias/Colar Longo.jpeg", badge: "" },
+        { id: 25, title: "Brinco Segundo Furo", price: 59.90, oldPrice: 79.90, image: "assets/joias/Brinco Segundo Furo.jpeg", badge: "Básico" },
+        { id: 26, title: "Tornozeleira Coração", price: 89.90, oldPrice: 119.90, image: "assets/joias/Tornozeleira Coracao.jpeg", badge: "" },
+        { id: 27, title: "Anel Regulável", price: 119.90, oldPrice: 149.90, image: "assets/joias/Anel Regulavel.jpeg", badge: "Versátil" },
+        { id: 28, title: "Colar Duplo", price: 169.90, oldPrice: 219.90, image: "assets/joias/Colar Duplo.jpeg", badge: "" },
+        { id: 29, title: "Brinco Masculino", price: 69.90, oldPrice: 89.90, image: "assets/joias/Brinco Masculino.jpeg", badge: "Masculino" }
     ];
 
     // Carrinho de compras
